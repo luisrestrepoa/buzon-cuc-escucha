@@ -1,6 +1,6 @@
 body{
     font-family: Arial, sans-serif;
-    background:#f4f4f4;
+    background:#dbeafe;
     margin:0;
     padding:0;
 }
@@ -43,7 +43,7 @@ textarea{
 button{
     width:100%;
     padding:12px;
-    background:#0066cc;
+    background:#0f766e;
     color:white;
     border:none;
     border-radius:5px;
@@ -51,5 +51,5 @@ button{
 }
 
 button:hover{
-    background:#004c99;
+    background:#115e59;
 }
